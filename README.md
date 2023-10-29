@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**smcnikita/smcnikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](./assets/tech/html5.svg)
+![CSS3](./assets/tech/css3.svg)
+![SCSS](./assets/tech/scss.svg)
+![Bootstrap](./assets/tech/bootstrap.svg)
+![Tailwind CSS](./assets/tech/tailwind.svg)
+![JavaScript](./assets/tech/js.svg)
+![TypeScript](./assets/tech/ts.svg)
+![Vue.js](./assets/tech/vue.svg)
+![React](./assets/tech/react.svg)
+![Nuxt.js](./assets/tech/nuxt.svg)
+![Npm](./assets/tech/npm.svg)
+![Figma](./assets/tech/figma.svg)
