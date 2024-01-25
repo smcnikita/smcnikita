@@ -16,3 +16,7 @@
 ![Astro](./assets/tech/astro.svg)
 ![Npm](./assets/tech/npm.svg)
 ![Figma](./assets/tech/figma.svg)
+
+### 😎 Top Langs [Github]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smcnikita&layout=compact&theme=radical)
